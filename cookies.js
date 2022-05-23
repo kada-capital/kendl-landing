@@ -113,7 +113,7 @@
                     allow: "Allow cookies",
                     deny: "Decline",
                     link: "privacy policy terms.",
-                    href: "https://www.kendl.com/privacy-policy",
+                    href: "/privacy-policy",
                     close: "&#x274c;",
                     target: "_blank",
                     policy: "Cookie Policy"
