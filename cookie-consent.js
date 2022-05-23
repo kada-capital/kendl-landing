@@ -112,7 +112,7 @@
                     dismiss: "Got it!",
                     allow: "Allow cookies",
                     deny: "Decline",
-                    link: "Read more",
+                    link: "Read privacy policy",
                     href: "/privacy-policy",
                     close: "&#x274c;",
                     target: "_blank",
