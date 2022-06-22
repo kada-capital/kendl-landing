@@ -108,7 +108,7 @@
                 onNoCookieLaw: function(e, t) {},
                 content: {
                     header: "Cookies used on the website!",
-                    message: "By using this website, you acknowledge that you have read and understand our privacy policy and accept to be informed about kendl's products, services, offers, stories, and events.",
+                    message: "By using this website, you acknowledge that you have read and understand our privacy policy and accept to be informed about kendl's launch.",
                     dismiss: "Got it!",
                     allow: "Allow cookies",
                     deny: "Decline",
